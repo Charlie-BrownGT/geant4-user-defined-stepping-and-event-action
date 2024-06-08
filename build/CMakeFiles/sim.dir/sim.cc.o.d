@@ -797,4 +797,10 @@ CMakeFiles/sim.dir/sim.cc.o: \
  /home/guy/software/geant4/geant4-v11.2.1-ST-install/include/Geant4/G4ParticleTable.hh \
  /home/guy/geant4-user-defined-stepping-and-event-action/run.hh \
  /home/guy/software/geant4/geant4-v11.2.1-ST-install/include/Geant4/G4UserRunAction.hh \
- /home/guy/software/geant4/geant4-v11.2.1-ST-install/include/Geant4/G4Run.hh
+ /home/guy/software/geant4/geant4-v11.2.1-ST-install/include/Geant4/G4Run.hh \
+ /home/guy/geant4-user-defined-stepping-and-event-action/event.hh \
+ /home/guy/software/geant4/geant4-v11.2.1-ST-install/include/Geant4/G4UserEventAction.hh \
+ /home/guy/software/geant4/geant4-v11.2.1-ST-install/include/Geant4/G4Event.hh \
+ /home/guy/geant4-user-defined-stepping-and-event-action/stepping.hh \
+ /home/guy/software/geant4/geant4-v11.2.1-ST-install/include/Geant4/G4UserSteppingAction.hh \
+ /home/guy/software/geant4/geant4-v11.2.1-ST-install/include/Geant4/G4Step.hh
