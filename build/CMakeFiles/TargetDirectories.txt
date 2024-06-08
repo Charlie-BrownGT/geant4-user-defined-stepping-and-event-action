@@ -1,0 +1,4 @@
+/home/guy/geant4-user-defined-stepping-and-event-action/build/CMakeFiles/sim.dir
+/home/guy/geant4-user-defined-stepping-and-event-action/build/CMakeFiles/Simulation.dir
+/home/guy/geant4-user-defined-stepping-and-event-action/build/CMakeFiles/edit_cache.dir
+/home/guy/geant4-user-defined-stepping-and-event-action/build/CMakeFiles/rebuild_cache.dir

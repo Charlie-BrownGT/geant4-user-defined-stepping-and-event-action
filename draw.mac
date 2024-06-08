@@ -1,0 +1,2 @@
+/run/reinitializeGeometry
+/control/execute vis.mac
